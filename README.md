@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Brijesh001st
 - 👀 I’m interested in MERN Stack Dev . 
-- 🌱 Currently , I'm in Final year of my engineering in IT 
-- 💞️ I’m looking to for an opportunity in web development where I can learn new technologies and utilise my
-skills.
+- 🌱 Currently , I'm in Final year of my engineering in IT.
 - 📫 How to reach me : [Linkedln](https://www.linkedin.com/in/brijesh-yadav-001st/)
 
 <!---
